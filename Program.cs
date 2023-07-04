@@ -8,8 +8,8 @@ namespace HomeworkSeminar03072023
         {
 			try
 			{
-				Console.WriteLine("Задача №25");
-				Task25.Involution();
+				Console.WriteLine("Задача №27");
+				Task27.SumDigitsOfNumber();
 			}
 			catch (Exception ex)
 			{
